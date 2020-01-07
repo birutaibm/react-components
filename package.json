@@ -1,0 +1,12 @@
+{
+  "name": "birutaibm-components",
+  "version": "1.0.0",
+  "description": "Some util generic components for react projects.",
+  "main": "index.js",
+  "author": "Rafael Arantes",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "react": "^16.12.0"
+  }
+}
